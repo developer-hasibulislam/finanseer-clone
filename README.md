@@ -36,8 +36,8 @@ MONGO_URL=
 
 ## Important Links
 
-- Client Side - [Click Here](https://ecomvision-clone-client.onrender.com)
-- Server Side - [Click Here](https://ecomvision-clone-server.onrender.com)
+- Client Side - [Click Here](https://finanseer-clone.vercel.app)
+- Server Side - [Click Here](https://finanseer-clone.onrender.com)
 
 # Author
 
